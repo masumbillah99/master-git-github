@@ -1,6 +1,10 @@
 working directory --> stagging area --> local repository --> remote repository
 Master Git & Github --> git add     --> git commit       --> git push 
 
+make changes --> git add --> git commit --> git push 
+
+git pull
+
 In a git repository / in a git folder you have 2 steps:
     i. track  -- git knows that you have added some files in git repository.
     ii. untrack -- 
