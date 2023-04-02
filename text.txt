@@ -14,3 +14,9 @@ show file --
     ls 
 show hidden file --
     ls -a
+
+
+what I learn:
+    how to create a remote repository
+    how to connect a local & remote repository
+    how to push the code from local to remote repository

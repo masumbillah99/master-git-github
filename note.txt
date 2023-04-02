@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+----- git branch & merge -----
+Branch is a new and separate branch of the master repo.
+In a big project we separate the tasks / features and create branch so 
+editing in the new branch does not affect the master branch.
+
+master --> git branch dev/git checkout dev --> new & separate branch of master repo
+--> git checkout master / git merge dev .
+
+Branch -> Reviews -> Testing -> merge
+Command: 
+git branch    === for check local branch
+git branch -r === for check remote branch
+git branch -a === check local or remote branch
